@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "24807652108",
+    "project_id": "practice-cf380",
+    "storage_bucket": "practice-cf380.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24807652108:android:2b9f61d136f3a49c0de729",
+        "android_client_info": {
+          "package_name": "com.example.database"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24807652108-0b5ha33tld92kri06h2idgr1s0te8lfu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwqTYVy_e0eDQ-O6pFInIA-Poxp6Du9ws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24807652108-0b5ha33tld92kri06h2idgr1s0te8lfu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
